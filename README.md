@@ -3,7 +3,10 @@ Welcome👋, In this project, we will work with data from one of Africa's larges
 
 ## Project Overview 
 
-** Get data by querying a MongoDB database 📊🔍**
-** Prepare time series data for analysis 📈🕒**
-** Build an autoregression model 🔨📈**
-** Improve a model by tuning its hyperparameters 🛠️🎚️**
+**Get data by querying a MongoDB database 📊🔍**
+**Prepare time series data for analysis 📈🕒**
+**Build an autoregression model 🔨📈**
+**Improve a model by tuning its hyperparameters 🛠️🎚️**
+
+## Key Insights
+
