@@ -1,2 +1,3 @@
-# Air Quality Analyzing in Nairobi
- "Air Quality Analyzing in Nairobi" is a project aimed at analyzing air quality data in Nairobi, Kenya. Using data collected from various sources such as government sensors, satellite imagery, and crowd-sourced data, this project employs data analysis and visualization techniques to assess the air quality in different areas of Nairobi.
+# Air Quality Analyzing in Dar es Salaam 🇹🇿
+In this project, we will work with data from one of Africa's largest open data platforms (openAfrica). we will look at air quality data from Dar es Salaam; and build a time seriesmodel to predict PM 2.5 readings throughout the day.
+
