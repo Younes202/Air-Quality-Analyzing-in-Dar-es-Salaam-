@@ -33,3 +33,14 @@ Welcome👋, In this project, we will work with data from one of Africa's larges
 
 ### WTF Predictions Plot
 <img src="images/wfv-prediction.png" alt="WTF Predictions Plot" width="400" height="300">
+
+
+## Resources
+
+##### open data platforms (openAfrica) : https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam
+
+##### Code source of the Project : https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-/blob/main/notebooks/project_representation.ipynb
+
+## Ask Me
+
+##### Feel free to reach out if you have any questions or suggestions for improvement or collaboration. Thank you for visiting my repository! its my linkdeen : https://www.linkedin.com/in/younes-sghyer-08144119b/
