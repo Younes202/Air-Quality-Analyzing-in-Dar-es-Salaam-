@@ -32,4 +32,4 @@ Welcome👋, In this project, we will work with data from one of Africa's larges
 <img src="images/acf-best-model-plot.png" alt="ACF training residuals histogram of the readings" width="400" height="300">
 
 ### WTF Predictions Plot
-<img src="images/wtv-prediction.png" alt="ACF training residuals histogram of the readings" width="400" height="300">
+<img src="images/wfv-prediction.png" alt="WTF Predictions Plot" width="400" height="300">
