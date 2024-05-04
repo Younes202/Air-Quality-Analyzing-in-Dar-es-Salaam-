@@ -13,3 +13,23 @@ Welcome👋, In this project, we will work with data from one of Africa's larges
 
 ## Key Insights
 
+### Time series plot of the readings
+<img src="images/time-plot.png" alt="time series plot of the readings" width="400" height="300">
+
+### Weekly roling average plot
+<img src="images/weekly-roling-average-plot.png" alt="weekly roling average plot of the reading" width="400" height="300">
+
+### AutoCorrelation Function plot
+<img src="images/acf-plot.png" alt="AutoCorrelation Function plot of the readings" width="400" height="300">
+
+### Partial AutoCorrelation Function plot
+<img src="images/pacf-plot.png" alt="Partial AutoCorrelation Function plot of the readings" width="400" height="300">
+
+### Best model training residuals histogram
+<img src="images/pacf-plot.png" alt="Partial AutoCorrelation Function plot of the readings" width="400" height="300">
+
+### ACF training residuals
+<img src="images/pacf-best-model-plot.png" alt="ACF training residuals histogram of the readings" width="400" height="300">
+
+### WTF Predictions Plot
+<img src="images/pacf-best-model-plot.png" alt="ACF training residuals histogram of the readings" width="400" height="300">
