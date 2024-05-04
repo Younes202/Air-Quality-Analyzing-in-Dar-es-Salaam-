@@ -43,4 +43,4 @@ Welcome👋, In this project, we will work with data from one of Africa's larges
 
 ## Ask Me
 
-##### Feel free to reach out me on linkdeen <a href="https://www.linkedin.com/in/younes-sghyer-08144119b/"> Younes Sghyer </a> if you have any questions or suggestions for improvement or collaboration. Thank you for visiting my repository! its my linkdeen : 
+##### Feel free to reach out me on linkedin <a href="https://www.linkedin.com/in/younes-sghyer-08144119b/"> Younes Sghyer </a> if you have any questions or suggestions for improvement or collaboration. Thank you for visiting my repository!
