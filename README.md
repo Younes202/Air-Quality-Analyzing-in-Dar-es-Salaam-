@@ -37,9 +37,9 @@ Welcome👋, In this project, we will work with data from one of Africa's larges
 
 ## Resources
 
-##### open data platforms (openAfrica) : https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam
+##### Click <a href ="https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam"/> here </a> to access to the open source data (openAfrica) : 
 
-##### Code source of the Project : https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-/blob/main/notebooks/project_representation.ipynb
+##### Click <a href ="https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-/blob/main/notebooks/project_representation.ipynb"> here </a> to access to the Code source of my Project
 
 ## Ask Me
 
