@@ -13,8 +13,8 @@ Welcome👋, In this project, we will work with data from one of Africa's larges
 
 ## Key Insights
 
-- **Time series plot of the readings**
-<img src="images/time-plot.png" alt="time series plot of the readings" width="400" height="300">
+- **Time series plot of the readings
+<img src="images/time-plot.png" alt="time series plot of the readings" width="400" height="300">**
 - **Weekly roling average plot**
 <img src="images/weekly-roling-average-plot.png" alt="weekly roling average plot of the reading" width="400" height="300">
 - **AutoCorrelation Function plot**
