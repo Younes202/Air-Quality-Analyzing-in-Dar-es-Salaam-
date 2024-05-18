@@ -1,5 +1,5 @@
 # Air Quality Analyzing in Dar es Salaam tanzania 🇹🇿
-Welcome👋, In this project, we will work with data from one of Africa's largest open data platforms [Click here to access to the Open Africa data in dar es-salaam](https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam). we will look at air quality data from Dar es Salaam in Tanzania; and build a time seriesmodel to predict PM 2.5 readings throughout the day🚀.
+Welcome👋, In this project, we will work with data from one of Africa's largest open data platforms [Dar es-salaam open africa data](https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam). we will look at air quality data from Dar es Salaam in Tanzania; and build a time seriesmodel to predict PM 2.5 readings throughout the day🚀.
 
 ## Project Overview 
 
